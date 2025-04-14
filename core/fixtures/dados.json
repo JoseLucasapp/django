@@ -1,0 +1,12 @@
+[
+    {
+        "model": "core.client",
+        "pk": 1,
+        "fields": {
+            "full_name": "Alice Souza",
+            "email": "alice.silva@example.com",
+            "is_active": false,
+            "born_date": "1998-11-11"
+        }
+    }
+]
